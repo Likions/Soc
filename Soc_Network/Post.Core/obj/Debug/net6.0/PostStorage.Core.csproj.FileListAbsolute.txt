@@ -1,0 +1,12 @@
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\bin\Debug\net6.0\PostStorage.Core.deps.json
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\bin\Debug\net6.0\PostStorage.Core.dll
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\bin\Debug\net6.0\PostStorage.Core.pdb
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.AssemblyInfoInputs.cache
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.AssemblyInfo.cs
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.csproj.CoreCompileInputs.cache
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.dll
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\refint\PostStorage.Core.dll
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.pdb
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\ref\PostStorage.Core.dll
+D:\University\PI-425\Site\Soc\Soc_Network\Post.Core\obj\Debug\net6.0\PostStorage.Core.sourcelink.json

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\poststoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\poststoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\clientapp\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\clientapp\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\migrations\\20240511123853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\migrations\\20240511123853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\migrations\\poststoragedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\migrations\\poststoragedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\repositories\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\repositories\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\post.core\\abstractions\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|solutionrelative:post.core\\abstractions\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\post.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|solutionrelative:post.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\poststorage.dataaccess\\entites\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A99F551-E40C-4662-BFF4-D2A6C006DA70}|PostStorage.DataAccess\\PostStorage.DataAccess.csproj|solutionrelative:poststorage.dataaccess\\entites\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\post.core\\poststorage.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8233EA62-AD05-4F78-9416-772CF90864A7}|Post.Core\\PostStorage.Core.csproj|solutionrelative:post.core\\poststorage.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|d:\\university\\pi-425\\site\\soc\\soc_network\\soc_network\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A5E920-CFB3-497A-97FC-50876D5A56B3}|Soc_Network\\Soc_Network.csproj|solutionrelative:soc_network\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Program.cs",
+              "RelativeDocumentMoniker": "Soc_Network\\Program.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Program.cs",
+              "RelativeToolTip": "Soc_Network\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:51:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Soc_Network\\appsettings.Development.json",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\appsettings.Development.json",
+              "RelativeToolTip": "Soc_Network\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T09:26:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\ClientApp\\package-lock.json",
+              "RelativeDocumentMoniker": "Soc_Network\\ClientApp\\package-lock.json",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\ClientApp\\package-lock.json",
+              "RelativeToolTip": "Soc_Network\\ClientApp\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T12:20:40.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\ClientApp\\package.json",
+              "RelativeDocumentMoniker": "Soc_Network\\ClientApp\\package.json",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\ClientApp\\package.json",
+              "RelativeToolTip": "Soc_Network\\ClientApp\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T12:20:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\appsettings.json",
+              "RelativeDocumentMoniker": "Soc_Network\\appsettings.json",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\appsettings.json",
+              "RelativeToolTip": "Soc_Network\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T12:10:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Soc_Network\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Soc_Network\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T13:08:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostStorageDbContext.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\PostStorageDbContext.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\PostStorageDbContext.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\PostStorageDbContext.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\PostStorageDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:32:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Soc_Network\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Soc_Network\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T14:05:17.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240511123853_InitialCreate.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Migrations\\20240511123853_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\Migrations\\20240511123853_InitialCreate.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Migrations\\20240511123853_InitialCreate.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\Migrations\\20240511123853_InitialCreate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:38:54.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostStorageDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Migrations\\PostStorageDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\Migrations\\PostStorageDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Migrations\\PostStorageDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\Migrations\\PostStorageDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:41:08.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostsRepository.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Repositories\\PostsRepository.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\Repositories\\PostsRepository.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Repositories\\PostsRepository.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\Repositories\\PostsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:49:53.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Configurations\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\Configurations\\PostConfiguration.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Configurations\\PostConfiguration.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\Configurations\\PostConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:40:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostEntity.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Entites\\PostEntity.cs",
+              "RelativeDocumentMoniker": "PostStorage.DataAccess\\Entites\\PostEntity.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\PostStorage.DataAccess\\Entites\\PostEntity.cs",
+              "RelativeToolTip": "PostStorage.DataAccess\\Entites\\PostEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:36:02.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostStorage.Core.csproj",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\PostStorage.Core.csproj",
+              "RelativeDocumentMoniker": "Post.Core\\PostStorage.Core.csproj",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\PostStorage.Core.csproj",
+              "RelativeToolTip": "Post.Core\\PostStorage.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T08:08:40.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPostsRepository.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\Abstractions\\IPostsRepository.cs",
+              "RelativeDocumentMoniker": "Post.Core\\Abstractions\\IPostsRepository.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\Abstractions\\IPostsRepository.cs",
+              "RelativeToolTip": "Post.Core\\Abstractions\\IPostsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:52:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Soc_Network\\Models\\Post.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Models\\Post.cs",
+              "RelativeToolTip": "Soc_Network\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:30:05.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Post.Core\\Models\\Post.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Post.Core\\Models\\Post.cs",
+              "RelativeToolTip": "Post.Core\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:15:02.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Soc_Network\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Soc_Network\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:57:13.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Soc_Network\\WeatherForecast.cs",
+              "ToolTip": "D:\\University\\PI-425\\Site\\Soc\\Soc_Network\\Soc_Network\\WeatherForecast.cs",
+              "RelativeToolTip": "Soc_Network\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:57:09.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
