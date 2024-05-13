@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using SocNetCurs.Data;
@@ -11,6 +13,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<SocNetCursContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SocNetCursContext")));
+
 
 var app = builder.Build();
 
